@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vmp.
+- 👋 Hi, I’m com.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to deal with braindeads
 - 📫 How to reach me you cant
